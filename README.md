@@ -13,5 +13,4 @@ This is the change made
 #This is the second change in the browser.
 
 #this is another change.
-this is the third change.
 
